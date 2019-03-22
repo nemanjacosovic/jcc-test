@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<fieldset
+  className="rock"
+>
+  <legend>
+    Some text
+  </legend>
+  <InputBox
+    cleanInput={[Function]}
+    cssc="rock"
+    inputs={Object {}}
+    onInputChange={[Function]}
+    type="text"
+  />
+</fieldset>
+`;

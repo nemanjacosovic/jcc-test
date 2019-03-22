@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputBox renders without crashing given the required props 1`] = `
+<input
+  className=""
+  key="0"
+  onChange={[Function]}
+  placeholder="e.g. 5+"
+  type="text"
+  value=""
+/>
+`;
+
+exports[`renders correctly 1`] = `
+<fieldset
+  className="rock"
+>
+  <legend>
+    Some text
+  </legend>
+  <InputBox
+    cleanInput={[Function]}
+    cssc="rock"
+    inputs={Object {}}
+    onInputChange={[Function]}
+    type="text"
+  />
+</fieldset>
+`;
